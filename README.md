@@ -1,5 +1,13 @@
-# api-bpm
- Ferramenta para buscar músicas e reproduzir o bpm dela
+# searchAndBeep
+Aplicação console para buscar músicas no site **songbpm.com** e reproduzir o bpm dela  
 
-## Desenvolvida em Python 2.7
-## API songbpm.com
+
+># Tecnologias Utilizadas
+>
+> Liguagem de Programação:  
+>* Python 2.7  
+>
+> Bibliotecas:
+>* requests  
+>* time  
+>* playsound  
